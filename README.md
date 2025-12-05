@@ -15,7 +15,7 @@ CP Showcase is a **public, open-source platform** that lets any competitive prog
 
 No more scattered profiles. No manual updates. Just one beautiful, shareable link that grows with you.
 
-Live at → [https://cpshowcase.com](https://cpshowcase.com)
+Live at → [https://cp-showcase.vercel.app/](https://cp-showcase.vercel.app/)
 
 ## Features
 
